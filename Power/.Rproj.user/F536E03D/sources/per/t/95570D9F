@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555510056088.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2777552551",
+    "id" : "95570D9F",
+    "lastKnownWriteTime" : 1555512083,
+    "last_content_update" : 1555512083920,
+    "path" : "~/Desktop/R_pack/Rpack/Power/R/power.R",
+    "project_path" : "R/power.R",
+    "properties" : {
+        "cursorPosition" : "4,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
